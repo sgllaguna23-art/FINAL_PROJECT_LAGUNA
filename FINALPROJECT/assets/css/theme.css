@@ -1,0 +1,49 @@
+
+body {
+    font-size: 1.0rem; 
+    color: #333; 
+}
+
+.brand-title {
+    font-family: 'Caudex', serif; 
+    font-weight: 700;           
+    font-size: 1.5rem; 
+}
+
+.background { 
+    background-image: url("parchment-paper-background.jpg"); 
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-color: #fcf9ee; 
+}
+.bg-brown {
+    background-color: #5D4037 !important; 
+}
+.btn-brown {
+    background-color: #5D4037;
+    color: #fcf9ee;
+    border-color: #4b3226;
+}
+.btn-brown:hover {
+    background-color: #4b3226;
+    color: #fff;
+    border-color: #38251e;
+}
+.text-brown {
+    color: #5D4037 !important;
+}
+.card-header {
+    font-family: 'Caudex', serif; 
+    font-weight: 700;
+    background-color: #e6e0d3;
+}
+.item-button:hover {
+    background-color: #f0f0f0 !important;
+    border-color: #5D4037 !important;
+    box-shadow: 0 0 5px rgba(93, 64, 55, 0.5);
+}
+#order-total {
+    color: #008000;
+}
